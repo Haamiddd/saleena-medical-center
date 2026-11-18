@@ -73,7 +73,7 @@ function App() {
   }
 
   const navLinks = [
-    ['Home', '#home'], ['About', '#about'], ['Services', '#services'],
+    ['Homeee', '#home'], ['About', '#about'], ['Services', '#services'],
     ['Our Doctors', '#doctors'], ['Testimonials', '#testimonials'], ['Contact', '#contact']
   ]
 
